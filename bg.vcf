@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Bjarke Gotfredsen
+N;CHARSET=UTF-8:Gotfredsen;Bjarke;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:bjarke@gotfredsen.com
+TEL;TYPE=CELL:270829414666
+ADR;CHARSET=UTF-8;TYPE=HOME:;;66 Hill Top Street;Scarborough;WC;7975;South Africa
+ADR;CHARSET=UTF-8;TYPE=WORK:;;66 Hill Top Street;Scarborough;WC;7975;South Africa
+REV:2022-03-25T08:25:01.388Z
+END:VCARD
